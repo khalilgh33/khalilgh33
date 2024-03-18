@@ -8,4 +8,14 @@
 
 📫 Reach out to me if you're interested in pushing the boundaries of what's possible in spatial data analysis and remote sensing. Let's connect and explore the vast potentials together!
 
+🌐 Connect with me on my professional networks:
+
+LinkedIn: https://www.linkedin.com/in/khalil-gholamnia-a7a27875/
+
+google scholar:https://scholar.google.com/citations?user=5VpolpwAAAAJ&hl=fa
+
+researchGate: https://www.researchgate.net/profile/Khalil-Gholamnia
+
+Kaggle: https://www.kaggle.com/khalilgholamnia
+
 
