@@ -1,4 +1,4 @@
-👋 Hi, I'm @khalilgh33, (Khalil Gholamnia) :-)
+👋 Hi, I'm @khalilgh33, (Khalil Gholamnia)
 
 👀 I have a deep fascination with the cutting-edge world of machine learning and deep learning, especially as they intersect with geographic information systems (GIS) and remote sensing. This unique blend of fields represents the forefront of understanding and interpreting our world through advanced technological lenses.
 
