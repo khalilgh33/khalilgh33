@@ -18,6 +18,4 @@ researchGate: https://www.researchgate.net/profile/Khalil-Gholamnia
 
 Kaggle: https://www.kaggle.com/khalilgholamnia
 
-![Banner](https://drive.google.com/file/d/1vlK0rzYYYS-lasfOW_sgt2BvZK9m_j7L/view?usp=drive_link)
-
 
