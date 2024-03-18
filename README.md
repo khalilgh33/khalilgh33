@@ -18,4 +18,5 @@ researchGate: https://www.researchgate.net/profile/Khalil-Gholamnia
 
 Kaggle: https://www.kaggle.com/khalilgholamnia
 
+![Deep Learning and GIS in RS]([URL-of-the-uploaded-image](https://drive.google.com/file/d/1vlK0rzYYYS-lasfOW_sgt2BvZK9m_j7L/view?usp=drive_link)https://drive.google.com/file/d/1vlK0rzYYYS-lasfOW_sgt2BvZK9m_j7L/view?usp=drive_link)
 
