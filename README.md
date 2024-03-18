@@ -18,5 +18,4 @@ researchGate: https://www.researchgate.net/profile/Khalil-Gholamnia
 
 Kaggle: https://www.kaggle.com/khalilgholamnia
 
-![Description of image]([DALL·E 2024-03-18 10.53.50 - An abstract representation of deep learning and machine learning in the context of GIS (Geographic Information Systems) and remote sensing. The image .webp]
 
